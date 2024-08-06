@@ -1,0 +1,14 @@
+C:\Users\Yavuz\source\repos\oopornek\oopornek\obj\Debug\net8.0\oopornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yavuz\source\repos\oopornek\oopornek\obj\Debug\net8.0\oopornek.AssemblyInfoInputs.cache
+C:\Users\Yavuz\source\repos\oopornek\oopornek\obj\Debug\net8.0\oopornek.AssemblyInfo.cs
+C:\Users\Yavuz\source\repos\oopornek\oopornek\obj\Debug\net8.0\oopornek.csproj.CoreCompileInputs.cache
+C:\Users\Yavuz\source\repos\oopornek\oopornek\bin\Debug\net8.0\oopornek.exe
+C:\Users\Yavuz\source\repos\oopornek\oopornek\bin\Debug\net8.0\oopornek.deps.json
+C:\Users\Yavuz\source\repos\oopornek\oopornek\bin\Debug\net8.0\oopornek.runtimeconfig.json
+C:\Users\Yavuz\source\repos\oopornek\oopornek\bin\Debug\net8.0\oopornek.dll
+C:\Users\Yavuz\source\repos\oopornek\oopornek\bin\Debug\net8.0\oopornek.pdb
+C:\Users\Yavuz\source\repos\oopornek\oopornek\obj\Debug\net8.0\oopornek.dll
+C:\Users\Yavuz\source\repos\oopornek\oopornek\obj\Debug\net8.0\refint\oopornek.dll
+C:\Users\Yavuz\source\repos\oopornek\oopornek\obj\Debug\net8.0\oopornek.pdb
+C:\Users\Yavuz\source\repos\oopornek\oopornek\obj\Debug\net8.0\oopornek.genruntimeconfig.cache
+C:\Users\Yavuz\source\repos\oopornek\oopornek\obj\Debug\net8.0\ref\oopornek.dll
